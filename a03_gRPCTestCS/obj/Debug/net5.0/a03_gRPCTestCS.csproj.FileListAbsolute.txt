@@ -1,0 +1,115 @@
+D:\grpc Android practice\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\grpc Android practice\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.AssemblyInfoInputs.cache
+D:\grpc Android practice\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.AssemblyInfo.cs
+D:\grpc Android practice\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.csproj.CoreCompileInputs.cache
+D:\grpc Android practice\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.MvcApplicationPartsAssemblyInfo.cache
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\appsettings.Development.json
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\appsettings.json
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\a03_gRPCTestCS.exe
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\a03_gRPCTestCS.deps.json
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\a03_gRPCTestCS.runtimeconfig.json
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\a03_gRPCTestCS.runtimeconfig.dev.json
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\a03_gRPCTestCS.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\a03_gRPCTestCS.pdb
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\Google.Protobuf.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\Grpc.Core.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\Grpc.Net.Client.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\Grpc.Net.Common.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\MySql.Data.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\Zstandard.Net.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\SoftBand.EntityManager.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\Renci.SshNet.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\grpc Android practice\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\grpc Android practice\a03_gRPCTestCS\obj\Debug\net5.0\staticwebassets\a03_gRPCTestCS.StaticWebAssets.Manifest.cache
+D:\grpc Android practice\a03_gRPCTestCS\obj\Debug\net5.0\scopedcss\bundle\a03_gRPCTestCS.styles.css
+D:\grpc Android practice\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.RazorTargetAssemblyInfo.cache
+D:\grpc Android practice\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.csproj.CopyComplete
+D:\grpc Android practice\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.dll
+D:\grpc Android practice\a03_gRPCTestCS\obj\Debug\net5.0\ref\a03_gRPCTestCS.dll
+D:\grpc Android practice\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.pdb
+D:\grpc Android practice\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.genruntimeconfig.cache
+D:\grpc Android practice\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.csproj.AssemblyReference.cache
+D:\grpc Android practice\a03_gRPCTestCS\obj\Debug\net5.0\refint\a03_gRPCTestCS.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\appsettings.Development.json
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\appsettings.json
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\a03_gRPCTestCS.exe
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\a03_gRPCTestCS.deps.json
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\a03_gRPCTestCS.runtimeconfig.json
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\a03_gRPCTestCS.runtimeconfig.dev.json
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\a03_gRPCTestCS.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\a03_gRPCTestCS.pdb
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\Google.Protobuf.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\Grpc.Core.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\Grpc.Net.Client.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\Grpc.Net.Common.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\MySql.Data.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\Zstandard.Net.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\Oracle.ManagedDataAccess.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\SoftBand.EntityManager.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\Renci.SshNet.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\dev\android\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.csproj.AssemblyReference.cache
+C:\dev\android\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\android\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.AssemblyInfoInputs.cache
+C:\dev\android\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.AssemblyInfo.cs
+C:\dev\android\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.csproj.CoreCompileInputs.cache
+C:\dev\android\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\android\a03_gRPCTestCS\obj\Debug\net5.0\scopedcss\bundle\a03_gRPCTestCS.styles.css
+C:\dev\android\a03_gRPCTestCS\obj\Debug\net5.0\staticwebassets\a03_gRPCTestCS.StaticWebAssets.Manifest.cache
+C:\dev\android\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.RazorTargetAssemblyInfo.cache
+C:\dev\android\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.csproj.CopyComplete
+C:\dev\android\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.dll
+C:\dev\android\a03_gRPCTestCS\obj\Debug\net5.0\refint\a03_gRPCTestCS.dll
+C:\dev\android\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.pdb
+C:\dev\android\a03_gRPCTestCS\obj\Debug\net5.0\a03_gRPCTestCS.genruntimeconfig.cache
+C:\dev\android\a03_gRPCTestCS\obj\Debug\net5.0\ref\a03_gRPCTestCS.dll
+C:\dev\android\a03_gRPCTestCS\bin\Debug\net5.0\Grpc.AspNetCore.Web.dll
